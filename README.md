@@ -1,4 +1,4 @@
-##### ![](https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/Data%20Analyst%20Capstone.png =100x100)
+##### ![Alt](https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/Data%20Analyst%20Capstone.png =100x100)
 # IBM Data Analyst Capston Project                                                                     
 
 ### Project Objective
