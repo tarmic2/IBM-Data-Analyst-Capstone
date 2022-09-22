@@ -40,8 +40,10 @@ ___
 3. Visualizing Composition of Data
 4. Visualizing Comparison of Data
 
-**Week 5- Builing a Dashboard**
+**Week 5- Builing a Dashboard with Cognos**
 1. Current Technology Usage
 2. Future Technology Trends 
 3. Demographics
+
+![Alt](https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/Data%20Analyst%20Capstone.png)
 
