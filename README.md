@@ -45,12 +45,12 @@ ___
 4. Visualizing Comparison of Data
 
 **Week 5- Builing a Dashboard with Cognos**
-##### Current Technology Usage
+### Current Technology Usage
 <img src="https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/Current%20trends.png" width=50% height=50%>
 
-##### Future Technology Trends 
+### Future Technology Trends 
 <img src="https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/Future%20trends.png" width=50% height=50%>
 
-##### Demographics
+### Demographics
 <img src="https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/Demographics.png" width=50% height=50%>
 
