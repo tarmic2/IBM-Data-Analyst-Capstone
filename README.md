@@ -1,4 +1,4 @@
-##### ![](https://www.credly.com/earner/earned/badge/0b1f6c8c-dcce-4127-ac8b-aefe0f36ec6d)
+##### ![](https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/Data%20Analyst%20Capstone.png =100x100)
 # IBM Data Analyst Capston Project                                                                     
 
 ### Project Objective
