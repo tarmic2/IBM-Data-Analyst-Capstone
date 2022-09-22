@@ -24,23 +24,23 @@ ___
 1. Collect Data using APIs and Webscraping
 2. Explore the Data
 
-**Week 2- Data Wrangling
+**Week 2- Data Wrangling**
 1. Finding and Removing Duplicates
 2. Finding and Imputing Missing Values
 3. Normalize the Data
 
-**Week 3- Exploratory Data Analysis (EDA)
+**Week 3- Exploratory Data Analysis (EDA)**
 1. Data Distribution
 2. Hanging Outliers
 3. Correlation
 
-**Week 4- Visualizing Data
+**Week 4- Visualizing Data**
 1. Visualizing Distribution of Data
 2. Visualizing Relationship
 3. Visualizing Composition of Data
 4. Visualizing Comparison of Data
 
-**Week 5- Builing a Dashboard
+**Week 5- Builing a Dashboard**
 1. Current Technology Usage
 2. Future Technology Trends 
 3. Demographics
