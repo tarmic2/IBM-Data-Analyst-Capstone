@@ -1,4 +1,4 @@
-# IBM Data Analyst Capston Project
+# IBM Data Analyst Capston Project                                                                      ![Alt](https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/Data%20Analyst%20Capstone.png)
 
 ### Project Objective
 
@@ -45,5 +45,5 @@ ___
 2. Future Technology Trends 
 3. Demographics
 
-![Alt](https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/Data%20Analyst%20Capstone.png)
+
 
