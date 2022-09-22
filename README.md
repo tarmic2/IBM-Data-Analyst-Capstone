@@ -22,30 +22,33 @@ You will begin by scraping internet web sites and accessing APIs to collect data
 ___
 
 ### Course Syllabus
-**Week 1- Data Collection** [Link to Portfolio Website](https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/1.Collecting_Jobs_data_Using_API-Questions.ipynb) 
+[Week 1- Data Collection- API](https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/1.Collecting_Jobs_data_Using_API-Questions.ipynb) 
+[Week 1- Data Collection- Webscraping](https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/2.Web-Scraping-Lab.ipynb)
+[Week 1- Data Collection- Explore Data](https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/3.ExploreDataSet-lab.ipynb)
 1. Collect Data using APIs and Webscraping
 2. Explore the Data
 
-**Week 2- Data Wrangling**
+[Week 2- Data Wrangling](https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/4.DataWrangling-lab.ipynb)
 1. Finding and Removing Duplicates
 2. Finding and Imputing Missing Values
 3. Normalize the Data
 
-**Week 3- Exploratory Data Analysis (EDA)**
+[Week 3- Exploring Data Analysis (EDA)](https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/5.ExploratoryDataAnalysis-lab.ipynb)
 1. Data Distribution
 2. Hanging Outliers
 3. Correlation
 
-**Week 4- Visualizing Data**
+[Week 4- Visualizing Data](https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/6.DataVisualization-lab.ipynb)
 1. Visualizing Distribution of Data
 2. Visualizing Relationship
 3. Visualizing Composition of Data
 4. Visualizing Comparison of Data
 
 **Week 5- Builing a Dashboard with Cognos**
-1. Current Technology Usage
-2. Future Technology Trends 
-3. Demographics
-
-
+##### Current Technology Usage
+<img src="https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/Current%20trends.png" width=15% height=15%>
+##### Future Technology Trends 
+<img src="https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/Future%20trends.png" width=15% height=15%>
+##### Demographics
+<img src="https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/Demographics.png" width=15% height=15%>
 
