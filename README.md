@@ -1,6 +1,6 @@
 <img src="https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/Professional%20Certificate-%20Data%20Analyst.png" width=15% height=15%> <img src="https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/Data%20Analyst%20Capstone.png" width=15% height=15%>                    
 
-# IBM Data Analyst Capston Project                                                
+# IBM Data Analyst Capstone Project                                                
 
 ### Project Objective
 
