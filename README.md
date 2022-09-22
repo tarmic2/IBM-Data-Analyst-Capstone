@@ -46,11 +46,11 @@ ___
 
 **Week 5- Builing a Dashboard with Cognos**
 ##### Current Technology Usage
-<img src="https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/Current%20trends.png" width=15% height=15%>
+<img src="https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/Current%20trends.png" width=30% height=30%>
 
 ##### Future Technology Trends 
-<img src="https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/Future%20trends.png" width=15% height=15%>
+<img src="https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/Future%20trends.png" width=30% height=30%>
 
 ##### Demographics
-<img src="https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/Demographics.png" width=15% height=15%>
+<img src="https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/Demographics.png" width=30% height=30%>
 
