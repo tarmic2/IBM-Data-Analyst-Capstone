@@ -20,7 +20,7 @@ You will begin by scraping internet web sites and accessing APIs to collect data
 ___
 
 ### Course Syllabus
-**Week 1- Data Collection
+**Week 1- Data Collection**
 1. Collect Data using APIs and Webscraping
 2. Explore the Data
 
