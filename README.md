@@ -21,7 +21,7 @@ You will begin by scraping internet web sites and accessing APIs to collect data
 ___
 
 ### Course Syllabus
-**Week 1- Data Collection**
+**Week 1- Data Collection** [Link to Portfolio Website](https://github.com/tarmic2/IBM-Data-Analyst-Capstone/blob/main/1.Collecting_Jobs_data_Using_API-Questions.ipynb “Week 1- Data Collection”) 
 1. Collect Data using APIs and Webscraping
 2. Explore the Data
 
